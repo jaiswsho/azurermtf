@@ -19,3 +19,4 @@ variable "azurerm_client_id" {
 variable "azurerm_client_secret" {
   description = "The SPN Client Secret used to deploy"
   type        = string
+}
